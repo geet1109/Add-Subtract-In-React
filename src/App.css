@@ -1,0 +1,36 @@
+div {
+  text-align: center;
+  vertical-align: center;
+  line-height: 10vh;
+  margin-top:150px;
+  /* background-color:black; */
+}
+#input{
+  height:34px;
+  width:275px;
+  font-size:20px;
+  border-radius:3px;
+  border:2px solid black;
+}
+.add{
+  background-color:#1075da;
+  border-color:#1075da;
+  border-radius:6px;
+  color:white;
+  height:45px;
+  width:285px;
+  font-size:20px;
+}
+.sub{
+  background-color:#c3283f;
+  border-color:#c3283f;
+   outline:0;
+  border-radius:6px;
+  color:white;
+  height:45px;
+  width:285px;
+  font-size:20px;
+}
+p{
+  font-size:22px;
+}
